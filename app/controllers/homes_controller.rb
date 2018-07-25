@@ -19,4 +19,8 @@ class HomesController < ApplicationController
 
   def z
   end
+
+  def add_more_methods
+  end
+
 end
