@@ -5,4 +5,9 @@ class HomesController < ApplicationController
 
   def sum
   end
+
+
+  def merge_method
+    puts "Add merge method to check"
+  end
 end
