@@ -10,4 +10,13 @@ class HomesController < ApplicationController
   def merge_method
     puts "Add merge method to check"
   end
+
+  def x
+  end
+
+  def y
+  end
+
+  def z
+  end
 end
